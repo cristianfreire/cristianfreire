@@ -18,5 +18,5 @@
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src="https://instagram.fpll3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/210541516_2662604217364457_9063262999899159945_n.jpg?_nc_ht=instagram.fpll3-1.fna.fbcdn.net&_nc_ohc=VMiDGUp6348AX-T1Z8J&edm=ABfd0MgBAAAA&ccb=7-4&oh=2ed05c32cc2672c18fa89a566cbbfb8b&oe=618310AE&_nc_sid=7bff83?width=676&height=676">
+  <!--img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src="https://instagram.fpll3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/210541516_2662604217364457_9063262999899159945_n.jpg?_nc_ht=instagram.fpll3-1.fna.fbcdn.net&_nc_ohc=VMiDGUp6348AX-T1Z8J&edm=ABfd0MgBAAAA&ccb=7-4&oh=2ed05c32cc2672c18fa89a566cbbfb8b&oe=618310AE&_nc_sid=7bff83?width=676&height=676"-->
 </div>
