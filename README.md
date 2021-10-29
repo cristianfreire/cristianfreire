@@ -12,13 +12,16 @@
 
 <!-- íconde de linguagens-->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Cris-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  
   <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
   <img align="center" alt="Cris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <!--img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src="https://instagram.fpll3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/210541516_2662604217364457_9063262999899159945_n.jpg?_nc_ht=instagram.fpll3-1.fna.fbcdn.net&_nc_ohc=VMiDGUp6348AX-T1Z8J&edm=ABfd0MgBAAAA&ccb=7-4&oh=2ed05c32cc2672c18fa89a566cbbfb8b&oe=618310AE&_nc_sid=7bff83?width=676&height=676"-->
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
+
 </div>
 
 ##
