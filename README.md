@@ -1,4 +1,4 @@
-## Oiii eu sou Cristian, JAVA developer, amo tecnologia 🌍
+## Oiii eu sou Cristian, software developer, amo tecnologia 🌍
 
 <!-- Dois painéis de relatório  -->
 <div align="center">
